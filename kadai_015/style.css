@@ -1,5 +1,5 @@
 .blue {
-  color: rgb(135,206,235);
+  color: skyblue;
 }
 .pink {
   color: pink;
@@ -13,12 +13,12 @@ html{
 h1 {
   font-size: 2rem;
   letter-spacing: 1.2em;
-  text-shadow: 20px 20px 20px pink;
+  text-shadow: 5px 5px 5px pink;
   border-bottom: solid 3px rgb(115,115,114);
 }
 body {
   text-align: center;
 }
-#basic {
+#basic > p {
   font-weight: bold;
 }
