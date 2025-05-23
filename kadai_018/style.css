@@ -58,10 +58,10 @@
   background-color: #e5dcf0;
 }
 #bottom-child02 {
-  position: absolute;
+  position: relative;
   left: 200px;
 }
 #bottom-child03 {
-  position: absolute;
+  position: relative;
   left: 400px;
 }
