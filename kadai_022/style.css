@@ -20,7 +20,7 @@ main {
   display: flex;
   justify-content: space-around;
 }
-.contents div {
+.contents  {
   border: solid 3px rgb(238,204,204);
   flex-basis: 25%;
   padding: 10px 15px;
@@ -62,7 +62,6 @@ a:hover {
 #parent {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
 }
   h2 {
     font-size: 30px;  
